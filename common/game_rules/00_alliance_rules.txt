@@ -1,0 +1,11 @@
+﻿allow_alliances = {
+	default = allow_alliances_enabled
+
+	option = {
+		name = allow_alliances_enabled
+	}
+
+	option = {
+		name = allow_alliances_disabled
+	}
+}
