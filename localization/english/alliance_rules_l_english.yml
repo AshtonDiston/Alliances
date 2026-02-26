@@ -1,0 +1,5 @@
+﻿l_english:
+ allow_alliances:0 "Allow Alliances"
+ allow_alliances_desc:0 "Controls whether players can create and break alliances using the Alliances mod."
+ allow_alliances_enabled:0 "Enabled"
+ allow_alliances_disabled:0 "Disabled"

@@ -7,6 +7,7 @@
 	desc = create_alliance_interaction_desc
 	
 	is_shown = {
+		has_game_rule = allow_alliances_enabled
 		scope:actor = {
 			is_ai = no
 			NOT = { 
@@ -52,6 +53,7 @@ break_alliance_interaction = {
 	desc = break_alliance_interaction_desc
 
 	is_shown = {
+		has_game_rule = allow_alliances_enabled
 		scope:actor = {
 			is_ai = no
 		}
